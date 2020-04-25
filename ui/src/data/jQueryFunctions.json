@@ -1,0 +1,50 @@
+[{
+    "name": "selectors",
+    "functions": [{
+        "name": "find"
+      },
+      {
+        "name": "queryAll"
+      },
+      {
+        "name": "query"
+      },
+      {
+        "name": "queryAll"
+      },
+      {
+        "name": "query"
+      },
+      {
+        "name": "queryAll"
+      },
+      {
+        "name": "query"
+      },
+      {
+        "name": "queryAll"
+      },
+      {
+        "name": "query"
+      },
+      {
+        "name": "queryAll"
+      },
+      {
+        "name": "query"
+      }
+    ]
+  },
+  {
+    "name": "events",
+    "functions": [{
+      "name": "on"
+    }]
+  },
+  {
+    "name": "effects",
+    "functions": [{
+      "name": "animate"
+    }]
+  }
+]
